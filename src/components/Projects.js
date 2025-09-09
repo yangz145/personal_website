@@ -80,10 +80,10 @@ export const Projects = () => {
                       </Row>
                     </Tab.Pane>
                     <Tab.Pane eventKey="second">
-                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quam, quod neque provident velit, rem explicabo excepturi id illo molestiae blanditiis, eligendi dicta officiis asperiores delectus quasi inventore debitis quo.</p>
+                      <p>Implemented UI components using React and CSS, and connected front-end functionality to dynamic SQL queries to support real-time data filtering.</p>
                     </Tab.Pane>
                     <Tab.Pane eventKey="third">
-                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quam, quod neque provident velit, rem explicabo excepturi id illo molestiae blanditiis, eligendi dicta officiis asperiores delectus quasi inventore debitis quo.</p>
+                      <p>Developed both front-end and back-end features for an internal web portal, enabling authenticated users to view personalized content and recommendations.</p>
                     </Tab.Pane>
                   </Tab.Content>
                 </Tab.Container>
